@@ -25,7 +25,7 @@ The system architecture is interrupt-based:
 
 ## Hardware Components
 
-- Arduino Uno / Nano
+- Arduino Uno
 - 1x LDR + 10kΩ pull-down resistor
 - 1x Soil moisture sensor
 - 1x LED + 220Ω resistor

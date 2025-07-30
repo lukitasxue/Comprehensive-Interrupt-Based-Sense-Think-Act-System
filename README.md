@@ -58,6 +58,9 @@ The system architecture is interrupt-based:
 
 ##  Upload & Run
 
+1. Open this [Tinkercard project link](https://www.tinkercad.com/things/j6egoXHBaLf-smashing-allis/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard)
+2. Run the program with simulate button
+OR do it with physical components
 1. Connect all components to the Arduino as described above.
 2. Upload the `.ino` file from this repo to your Arduino board using the Arduino IDE.
 3. Open the Serial Monitor (9600 baud) to see system messages and logs.

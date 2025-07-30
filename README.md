@@ -2,7 +2,7 @@
 
 This is a simple **Smart Gardening System** built with Arduino. It automatically waters plants based on soil moisture and ambient light, and it includes logging capabilities using **interrupts** and **timers** to make the system efficient and responsive.
 
-[📺 Watch the system explanation (video report)](https://youtu.be/zJxq41mIB_I)
+[Watch the system explanation (video report)](https://youtu.be/zJxq41mIB_I)
 
 ---
 
@@ -23,7 +23,7 @@ The system architecture is interrupt-based:
 
 ---
 
-## ⚙️ Hardware Components
+## Hardware Components
 
 - Arduino Uno / Nano
 - 1x LDR + 10kΩ pull-down resistor
@@ -46,7 +46,7 @@ The system architecture is interrupt-based:
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 1. System starts in OFF state.
 2. **Button D9** toggles system ON/OFF.
@@ -65,7 +65,7 @@ The system architecture is interrupt-based:
 
 ---
 
-## 📹 Demo Video
+## Demo Video
 
 - [Click here to watch the explanation & demo](https://youtu.be/zJxq41mIB_I)
 

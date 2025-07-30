@@ -86,3 +86,5 @@ The system architecture is interrupt-based:
 - Seminar 3 code & Arduino IDE documentation
 
 ---
+
+Pd: AI helped enhancing the format for the above README so it looks more professional
